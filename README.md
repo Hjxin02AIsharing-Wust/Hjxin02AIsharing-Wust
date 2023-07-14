@@ -1,4 +1,12 @@
-### Hey! Nice to see you. 👋
+### 👋 Hey! Nice to see you. 
+
+Welcome to my page!
+
+I'm Hu Jiaxin, an AI enthusiast, and I'm inspired to be an excellent researcher.
+
+Doing something meaningful with like-minded people is making the world a better place!
+
+
 
 <!--
 **Hjxin02AIsharing-Wust/Hjxin02AIsharing-Wust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
