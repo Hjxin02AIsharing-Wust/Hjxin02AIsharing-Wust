@@ -6,7 +6,7 @@ I'm Hu Jiaxin, an AI enthusiast, and I'm inspired to be an excellent researcher.
 
 Doing something meaningful with like-minded people is making the world a better place!
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hjxin02AIsharing-Wust&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
 **Hjxin02AIsharing-Wust/Hjxin02AIsharing-Wust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
